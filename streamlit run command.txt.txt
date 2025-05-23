@@ -1,0 +1,1 @@
+streamlit run "D:\ML and DL Projects\New_Multiple Disesase Prediction System using Streamlet\multiple_disease_pred.py"
